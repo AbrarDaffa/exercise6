@@ -1,3 +1,5 @@
+// Nomer 1
+
 let arrayStudent = [
     {
       Name: "Owen",
@@ -75,7 +77,7 @@ let arrayStudent = [
   
   console.log(calculateData(arrayStudent));
   
-  //2
+  // Nomer 2
   
   class Product {
     constructor(name, price) {
